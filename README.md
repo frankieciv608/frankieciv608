@@ -6,7 +6,7 @@
 - 💞️ Looking to collaborate on learning the right way so I can become gainfully employed in Data Analytics/ Data Science.
 - 💞️ I have a Linkedin page - https://www.linkedin.com/in/frankcivitello/
 - 🔷 Completed the Google Data Ananlytics Professional Certificate in September 2022.
-- 🔷 Completed the Learn SQL from Codecadem in November 2023. 
+- 🔷 Completed the Learn SQL from Codecademy in November 2023. 
 - 🔷 also have a Tableau profile page - https://public.tableau.com/app/profile/frank.civitello
 
 <!---
